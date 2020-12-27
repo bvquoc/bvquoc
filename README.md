@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🤔 I’m a **Coder**
+- ![ ](https://run.kaist.ac.kr/badges/codeforces/viquoc.bui.9.svg) Chiken competitive programmer.
 
 [![Quoc's github stats](https://github-readme-stats.vercel.app/api?username=bvquoc2003&hide=issues&show_icons=true)](https://github.com/bvquoc2003)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bvquoc2003&layout=compact)](https://github.com/bvquoc2003)
