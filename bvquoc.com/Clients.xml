@@ -1,0 +1,41 @@
+<!-- Clients -->
+<div class='mt-4'>
+    <h2 class='title title--h3'>Clients</h2>
+
+    <div class='swiper-container js-carousel-clients'>
+        <div class='swiper-wrapper'>
+            <!-- Item client -->
+            <div class='swiper-slide'>
+                <a href='#'><img alt='Logo' src='https://cdn.jsdelivr.net/gh/minhkhoi2001/code/vcard/logo-1.svg'/></a>
+            </div>
+
+            <!-- Item client -->
+            <div class='swiper-slide'>
+                <a href='#'><img alt='Logo' src='https://cdn.jsdelivr.net/gh/minhkhoi2001/code/vcard/logo-2.svg'/></a>
+            </div>
+
+            <!-- Item client -->
+            <div class='swiper-slide'>
+                <a href='#'><img alt='Logo' src='https://cdn.jsdelivr.net/gh/minhkhoi2001/code/vcard/logo-3.svg'/></a>
+            </div>
+
+            <!-- Item client -->
+            <div class='swiper-slide'>
+                <a href='#'><img alt='Logo' src='https://cdn.jsdelivr.net/gh/minhkhoi2001/code/vcard/logo-4.svg'/></a>
+            </div>
+
+            <!-- Item client -->
+            <div class='swiper-slide'>
+                <a href='#'><img alt='Logo' src='https://cdn.jsdelivr.net/gh/minhkhoi2001/code/vcard/logo-1.svg'/></a>
+            </div>
+
+            <!-- Item client -->
+            <div class='swiper-slide'>
+                <a href='#'><img alt='Logo' src='https://cdn.jsdelivr.net/gh/minhkhoi2001/code/vcard/logo-2.svg'/></a>
+            </div>
+        </div>
+
+        <div class='swiper-pagination'/>
+    </div>
+</div>
+  </div>

@@ -1,0 +1,61 @@
+<!-- Testimonials -->
+<div class='mt-2'>
+    <h2 class='title title--h3'>Testimonials</h2>
+    <div class='swiper-container js-carousel-review'>
+        <div class='swiper-wrapper'>
+            <!-- Item review -->
+            <div class='swiper-slide review-item'>
+                <svg class='avatar avatar--80' viewBox='0 0 84 84'>
+                                            <g class='avatar__hexagon'>
+                                                <image height='100%' width='100%' xlink:href='https://1.bp.blogspot.com/-63xFAoBQ5S8/X8qYfgIINdI/AAAAAAAADZU/6kGmZ9jEk_YUs2I53KvNYfcCr3qDiQsqQCLcBGAsYHQ/s700/avatar-2.jpg'/>
+                                            </g>
+                                        </svg>
+                <div class='review-item__textbox'>
+                    <h4 class='title title--h5'>Daniel Lewis</h4>
+                    <p class='review-item__caption'>Felecia was hired to create a corporate identity. We were very pleased with the work done.</p>
+                </div>
+            </div>
+
+            <!-- Item review -->
+            <div class='swiper-slide review-item'>
+                <svg class='avatar avatar--80' viewBox='0 0 84 84'>
+                                            <g class='avatar__hexagon'>
+                                                <image height='100%' width='100%' xlink:href='https://1.bp.blogspot.com/-V35L83C8p9I/X8qYfp06r9I/AAAAAAAADZY/nRCfHvOOnBsznGx9EQsOkP0hoBdWWOfAACLcBGAsYHQ/s700/avatar-3.jpg'/>
+                                            </g>
+                                        </svg>
+                <div class='review-item__textbox'>
+                    <h4 class='title title--h5'>Jessica Miller</h4>
+                    <p class='review-item__caption'>thanks to the skill of Felecia, we have a design that we can be proud of.</p>
+                </div>
+            </div>
+
+            <!-- Item review -->
+            <div class='swiper-slide review-item'>
+                <svg class='avatar avatar--80' viewBox='0 0 84 84'>
+                                            <g class='avatar__hexagon'>
+                                                <image height='100%' width='100%' xlink:href='https://1.bp.blogspot.com/-VEWflmMWzxQ/X8qYfk7INSI/AAAAAAAADZc/yKH7QacDuEowoMqtCWW3ZV_lidbN84n-gCLcBGAsYHQ/s700/avatar-4.jpg'/>
+                                            </g>
+                                        </svg>
+                <div class='review-item__textbox'>
+                    <h4 class='title title--h5'>Tanya Ruiz</h4>
+                    <p class='review-item__caption'>Felecia was hired to create a corporate identity. We were very pleased with the work done.</p>
+                </div>
+            </div>
+
+            <!-- Item review -->
+            <div class='swiper-slide review-item'>
+                <svg class='avatar avatar--80' viewBox='0 0 84 84'>
+                                            <g class='avatar__hexagon'>
+                                                <image height='100%' width='100%' xlink:href='https://1.bp.blogspot.com/-18dNJ4ceLfQ/X8qYgIGTG4I/AAAAAAAADZg/6WpwcOKFQG4P2m6yq5aC9u-MFUpmbXPagCLcBGAsYHQ/s700/avatar-5.jpg'/>
+                                            </g>
+                                        </svg>
+                <div class='review-item__textbox'>
+                    <h4 class='title title--h5'>Thomas Castro</h4>
+                    <p class='review-item__caption'>thanks to the skill of Felecia, we have a design that we can be proud of.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class='swiper-pagination'/>
+    </div>
+</div>
