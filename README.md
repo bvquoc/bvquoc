@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://bvquoc2003.github.io/](https://bvquoc2003.github.io/)
 
-<h3 align="left">Connect with me: <a href="https://www.facebook.com/viquoc.bui.9/">Facebook</a> </h3>
+<h3 align="left">Connect with me:
 <p align="left">
 <a href="https://fb.com/viquoc.bui.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viquoc.bui.9" height="30" width="40" /></a>
 <a href="https://instagram.com/ziwok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziwok" height="30" width="40" /></a>
