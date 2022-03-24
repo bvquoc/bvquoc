@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bvquoc.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.bvquoc.net/](https://www.bvquoc.net/)
+- 📄 Know about my experiences [https://bvquoc.blogspot.com/](https://bvquoc.blogspot.com/)
 
 <h3 align="left">Connect with me:
 <p align="left">
