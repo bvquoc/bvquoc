@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Luyencode Online](https://luyencode.net/)
 
-- 🌱 I’m currently learning **JavaScript, React,...**
-
 - 📫 How to reach me **bvquoc.dev@gmail.com**
 
 - 📄 Know about my experiences [https://bvquoc.blogspot.com/](https://bvquoc.blogspot.com/)
