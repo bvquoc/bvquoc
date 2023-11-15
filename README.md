@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quoc Bui</h1>
 <h3 align="center">A coder from Viet Nam</h3>
 
-- 🔭 I’m currently working on [Luyencode Online](https://luyencode.net/)
+- 🔭 I’m currently working on [Resales-Online](https://www.resales-online.com/en/)
 
 - 📫 How to reach me **bvquoc.dev@gmail.com**
 
-- 📄 Know about my experiences [https://bvquoc.tech/](https://bvquoc.tech/)
+- 📄 Know about my experiences [https://quoc-bui.engineer/](https://quoc-bui.engineer/)
 
 <h3 align="left">Connect with me:
 <p align="left">
